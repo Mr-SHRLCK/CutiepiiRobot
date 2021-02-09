@@ -1,5 +1,5 @@
 import logging
-import 
+import os
 import sys
 import time
 import spamwatch
